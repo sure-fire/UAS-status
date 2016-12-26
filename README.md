@@ -1,7 +1,7 @@
-# UAS-status
-Pebble smartwatch app to query the status of unallocatedspace.org
+# UAS Status
+A pebble smartwatch app to query the status of the unallocatedspace.org occupancy sensor
 
-This is a Pebble app, written in a combination of C and JavaScript, which is largely based off the One-Click Action / Lockitron tutorial provided generously by the Pebble SDK devs.  It queries the [Unallocated Space](www.unallocatedspace.org/uas) website to find out whether the occupancy sensor has been triggered.
+This is a Pebble app, written in a combination of C and JavaScript, which is largely based off the One-Click Action / Lockitron tutorial provided generously by the Pebble SDK devs.  It queries the [Unallocated Space](www.unallocatedspace.org/uas) website to find out whether the [occupancy sensor](http://www.unallocatedspace.org/wiki/Occupancy_Sensor) has been triggered.
 
 The app is my first, and was written for the older Pebble Steel platform (aka Basalt).  I have not tested it on other platforms, but it should work roughly the same way:
 
