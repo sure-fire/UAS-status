@@ -5,8 +5,12 @@ This is a Pebble app, written in a combination of C and JavaScript, which is lar
 
 The app is my first, and was written for the older Pebble Steel platform (aka Basalt).  I have not tested it on other platforms, but it should work roughly the same way:
 
-![Image of Yaktocat](docs/screenshot1-glance.png)
+<kbd>
+ ![Glance](docs/screenshot1-glance.png)
+</kbd>
 
 If the app hasn't been run recently, the glance will show "UNKNOWN" and the select button can be used to quickly check and report back the time of the last status change:
 
-![Image of Yaktocat](docs/screenshot2-details.png)
+<kbd>
+![Details](docs/screenshot2-details.png)
+</kbd>
