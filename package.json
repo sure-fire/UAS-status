@@ -1,0 +1,38 @@
+{
+    "author": "pebble@as0t0.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "uas-status",
+    "pebble": {
+        "displayName": "UAS Status",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "APP_READY",
+            "STATE",
+            "SINCE"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/logo",
+                    "menuIcon": true,
+                    "name": "logo",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "1a197c33-7027-4446-8412-032c55951eba",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
